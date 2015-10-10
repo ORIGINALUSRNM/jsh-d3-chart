@@ -1,0 +1,15 @@
+{
+  "name": "jsh-d3-chart",
+  "version": "1.0.0",
+  "description": "d3 chart angular directive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Hornbuckle",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "d3": "^3.5.6"
+  }
+}
